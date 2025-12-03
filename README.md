@@ -18,4 +18,4 @@ Phasic and tonic REM were defined using short, non-overlapping 4-second windows 
 
 To avoid overlap or contamination between states, detected windows were separated by a minimum of 8 seconds.
 
-**PSD of tonic and phasic REM sleep** was computed and compared across frequency bands.
+**PSD of tonic and phasic REM sleep** was computed.
